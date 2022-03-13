@@ -4,6 +4,8 @@ body{
 
 .qrcodeandtext{
     text-align: center;
+    width: 30%;
+    height: auto.
 }
 
 #firstparagraphe{
@@ -13,11 +15,6 @@ body{
 
 #secondparagraphe{
     font-size: 13px;
-}
-
-img{
-    width: 50%;
-    height: auto.
 }
 
 .attribution{ 
