@@ -15,9 +15,8 @@ body{
     font-size: 13px;
 }
 
-.qrcodeimg{
-    width: 100px
-    border-radius: 20px;
+img{
+    border-radius: 30px;
 }
 
 .attribution{ 
