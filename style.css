@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qrcodeandtext{
+    text-align: center;
+}
+
+#firstparagraphe{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#secondparagraphe{
+    font-size: 13px;
+}
+
+.qrcodeimg{
+    width: 200px
+    border-radius: 20px;
+}
+
+.attribution{ 
+    font-size: 11px;
+    text-align: center; 
+}
+.attribution a{ 
+    color: hsl(228, 45%, 44%);
+}
